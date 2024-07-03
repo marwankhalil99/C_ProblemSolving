@@ -1,3 +1,4 @@
+/*Write a program to take 2 numbers from user and calculate sum of all numbers between them.*/
 #include<stdio.h>
 int main(void)
 {
