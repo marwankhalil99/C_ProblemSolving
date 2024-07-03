@@ -1,0 +1,13 @@
+(1) Write a program to take 2 numbers from user and calculate sum of all numbers between them.
+(2) Write a program to take numbers from user and find the max and min from them (let users choose the No of numbers.
+(3) Write a program to take numbers from user and calculate the sum of them (let users choose the No of numbers.
+(4) Write a program that take two numbers and multiply them without using * operation.
+(5) Write a program that take two numbers and calculate the reminder without using % operation.
+(6) Write a program to calculate the power of a number. The number and its power are input from user.
+(7) Write a program that reads a positive integer and computes the factorial.
+(8) Write a program that reads a positive integer and checks if it is a prime.
+(9) Write a program that reads a positive integer and checks if it is a perfect square.
+(10) Write a program that reads a positive integer and check if this number is a base of 2 like 1,2,4,8,16,32, 64...
+(11) Write a program to sum the digits in a decimal number
+145 -> 1+4+5=10.
+(12) write a program to take even numbers from user and print the sum of them after each entry if the user enters 2 odd number the program print "bye" and stopped.
